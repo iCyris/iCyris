@@ -1,3 +1,7 @@
+<a href="https://github.com/iCyris?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iCyris&show_icons=true&hide_border=true" />
+</a>
+
 ### Hi, I'm Cyris 👋
 
 - 🔭 Currently working on Alibaba (As a Front-End Web Developer)
