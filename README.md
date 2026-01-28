@@ -4,7 +4,7 @@
 
 ### Hi, I'm Cyris 👋
 
-- 🔭 Currently working on Aliyun (As a Front-End Web Developer)
+- 🔭 Currently working on Aliyun
 - 💫 Interested in Music, Designing...And any other pretty things
 - 🏠 Home page at [cyris.moe](https://cyris.moe)
 - 📩 Reach me by [sending me an email](mailto:i@cyris.moe)
