@@ -1,11 +1,27 @@
-<a href="https://github.com/iCyris?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=iCyris&show_icons=true&hide_border=true" />
-</a>
+<!-- github.com/iCyris -->
 
-### Hi, I'm Cyris 👋
+# Cyris
 
-- Human-AI Interaction Engineer @Aliyun
-- Making AI agents reliable enough to be team members, not just chat interfaces
-- Also a brand & creature maker — minimalism, logocraft, and blob mascots
-- Home page at [cyris.moe](https://cyris.moe)
-- Reach me by [sending me an email](mailto:i@cyris.moe)
+> **Thinking in Systems, Designing with Care.**
+
+`whoami` → Human-AI Interaction Engineer
+
+---
+
+I work at the seams between human intent and machine capability — studying how people trust, interact with, and make decisions alongside AI. I believe good AI should be adaptive, observable, and context-aware. These convictions shape everything I build.
+
+```
+$ echo $STATUS
+  currently @ Aliyun
+
+$ cat ./what-i-do
+  AI product design · evaluation frameworks · human-agent interaction
+
+$ ls ./stack/
+  typescript   react   python   llm-tooling
+
+$ contact --help
+  site    cyris.moe
+  email   i@cyris.moe
+  github  github.com/iCyris
+```
