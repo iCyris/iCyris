@@ -12,5 +12,4 @@ $ cat ./what-i-do
 $ contact --help
   site    cyris.moe
   email   i@cyris.moe
-  github  github.com/iCyris
 ```
