@@ -1,6 +1,4 @@
-<!-- github.com/iCyris -->
-
-# Cyris
+### Hi, I'm Cyris 👋
 
 > **Thinking in Systems, Designing with Care.**
 
