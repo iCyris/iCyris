@@ -9,9 +9,6 @@ $ echo $STATUS
 $ cat ./what-i-do
   AI product design · evaluation frameworks · human-agent interaction
 
-$ ls ./stack/
-  typescript   react   python   llm-tooling
-
 $ contact --help
   site    cyris.moe
   email   i@cyris.moe
