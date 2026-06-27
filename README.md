@@ -4,7 +4,8 @@
 
 ### Hi, I'm Cyris 👋
 
-- 🔭 Currently working on Aliyun
-- 💫 Interested in Music, Designing...And any other pretty things
-- 🏠 Home page at [cyris.moe](https://cyris.moe)
-- 📩 Reach me by [sending me an email](mailto:i@cyris.moe)
+- Human-AI Interaction Engineer @ Aliyun
+- Making AI agents reliable enough to be team members, not just chat interfaces
+- Also a brand & creature maker — minimalism, logocraft, and blob mascots
+- Home page at [cyris.moe](https://cyris.moe)
+- Reach me by [sending me an email](mailto:i@cyris.moe)
