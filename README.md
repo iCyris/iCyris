@@ -4,7 +4,7 @@ I work at the seams between human intent and machine capability — studying how
 
 ```bash
 $ cat ./what-i-do
-  AI product design · evaluation frameworks · human-agent interaction
+  AI product design · human-agent interaction
 
 $ contact --help
   site    cyris.moe
