@@ -7,6 +7,6 @@ $ cat ./what-i-do
   AI product design · human-agent interaction
 
 $ contact --help
-  site    cyris.moe
+  site    [Fleur](https://cyris.moe)
   email   i@cyris.moe
 ```
